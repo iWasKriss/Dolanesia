@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner-image {
+    background-image: url('/img/beach.jpg');
+    background-size: cover;
+}
