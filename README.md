@@ -1,7 +1,6 @@
 ##ReadMe
-####1. Download the Laravel installer using Composer by copying the link below
-	composer global require "laravel/installer=~1.1"
 
+1. Download the Laravel installer using Composer by copying the link below composer global require "laravel/installer=~1.1"
 2. Open the project folder and click on the file location directory
 3. Type cmd
 4. Type "code ." in cmd it will direct you to vscode
